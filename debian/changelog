@@ -1,0 +1,54 @@
+pysycache-qcv (0.11) xenial; urgency=medium
+
+  * First release to xenial
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Mon, 15 Feb 2016 08:45:55 +0100
+
+pysycache-qcv (0.8) trusty; urgency=high
+
+  * Added for trusty
+
+ -- Angel Berlanas Vicente <angel.berlanas@gmail.com>  Mon, 20 Apr 2015 16:15:21 +0200
+
+pysycache-qcv (0.7) precise; urgency=low
+
+  * Fixed ancient-standards-version 3.8.4 (current is 3.9.3) 
+
+ -- Jaime Munyoz Fayos <munyoz_jaifay@gva.es>  Mon, 10 Dec 2012 10:17:52 +0100
+
+pysycache-qcv (0.6) precise; urgency=low
+
+  * First release for Pandora
+
+ -- Miguel Garcia Gomez <garcia_miggom@gva.es>  Thu, 22 Nov 2012 12:16:17 +0100
+
+pysycache-qcv (0.5) unstable; urgency=low
+
+  * Fixed translation
+
+ -- Francisco Antonino Daviu <antonino_fra@gva.es>  Fri, 27 Jan 2012 12:11:39 +0100
+
+pysycache-qcv (0.4) unstable; urgency=low
+
+  [ Francisco Antonino Daviu ]
+  * Launched for Nemo 
+
+ -- Francisco Antonino Daviu <antonino_fra@gva.es>  Fri, 27 Jan 2012 12:08:28 +0100
+
+pysycache-qcv (0.3) unstable; urgency=low
+
+  * Fixed translation
+
+ -- Angel Berlanas Vicente <lliurex_devel2@edu.gva.es>  Thu, 15 Sep 2011 12:34:55 +0200
+
+pysycache-qcv (0.2) unstable; urgency=low
+
+  * Added control information
+
+ -- Angel Berlanas Vicente <lliurex_devel2@edu.gva.es>  Thu, 15 Sep 2011 12:27:45 +0200
+
+pysycache-qcv (0.1) unstable; urgency=low
+
+  * Initial Release.
+
+ -- Angel Berlanas Vicente <lliurex_devel2@edu.gva.es>  Thu, 15 Sep 2011 12:22:41 +0200
