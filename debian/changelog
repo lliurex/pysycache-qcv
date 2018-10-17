@@ -1,3 +1,9 @@
+pysycache-qcv (0.21) bionic; urgency=medium
+
+  * Initial release for bionic
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Wed, 17 Oct 2018 09:07:51 +0200
+
 pysycache-qcv (0.11) xenial; urgency=medium
 
   * First release to xenial
