@@ -1,0 +1,56 @@
+OUI=Sí
+NON=No
+OK=D'acord
+CANC=Cancel·la
+
+PRF00=Ajusta les teues preferències
+PRF01=Configuració del PySyCache
+SCR=Elecció del mode de pantalla
+SCR1=Mode pantalla completa
+SCR2=Mode en finestra
+SON=Active el so?
+NIV=Nivell de dificultat
+NIV0=Fàcil
+NIV1=Mitjà
+NIV2=Difícil
+LANG=Elecció de l'idioma dels menús
+TRANSIT=Velocitat de transició
+
+MOD00=On es troba el directori dels usuaris del PySyCache?
+MOD01=Directori de l'usuari
+MOD02=gestionat pel PySyCache
+MOD03=Directori públic dels usuaris
+
+SCO00=Directori de la puntuació
+
+IB0=Nom de l'usuari nou
+IB1=Nom del directori amb la puntuació
+IB2=Nom del directori amb els usuaris
+
+SCOBEST0=Enhorabona!
+SCOBEST1=Has tret 
+SCOBEST2=molt bona puntuació
+SCOBEST3=una puntuació de les més altes
+
+
+WIN0=Com et diuen?
+
+ACT1=Activitat de moviment
+ACT2=Activitat de clic
+ACT3=Activitat de botons
+ACT4=Activitat de doble clic
+ACT5=Activitat d'arrossegar
+ACT6=Activitat d'arrossegar i deixar anar
+
+
+VALID0=i polsa RETORN
+
+DEL0=Confirmes l'eliminació de
+DEL1=l'usuari seleccionat?
+
+NOUSR1=El directori d'usuaris no existix!
+NOUSR2=Configura correctament el PySyCache
+
+
+
+

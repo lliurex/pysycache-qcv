@@ -1,0 +1,4 @@
+Configuració del
+PySyCache
+(usuaris, 
+activitats...).
